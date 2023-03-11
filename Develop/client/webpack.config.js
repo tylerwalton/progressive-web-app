@@ -21,7 +21,7 @@ module.exports = () => {
         title: "JATE",
       }),
       new InjectManifest({
-        swSrc: "./src/sw.js",
+        swSrc: "./src-sw.js",
         swDest: "src-sw.js",
       }),
       new WorkboxPlugin.GenerateSW(),
