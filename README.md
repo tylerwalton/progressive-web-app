@@ -2,7 +2,7 @@
 This weeks challenge focused on our abilities to implement webpack into our application as well as creating a installable version that can run offline.
 
 ## Deployed Webpage
-[Click me to go to see my App!](https://tylerwalton.github.io/progressive-web-app/)
+[Click me to go to see my App!](https://mysterious-journey-37052.herokuapp.com/)
 
 ## <u>**Motivation**</u>
 Here is a list of my motivations for this project!
@@ -13,7 +13,7 @@ Here is a list of my motivations for this project!
  
 ## <u>**Screenshots**</u>
 
-![alt text]()
+![alt text](./img/mysterious-journey-37052.herokuapp.com_%20(1).png)
 
 ## <u>**Author**</u>
 
